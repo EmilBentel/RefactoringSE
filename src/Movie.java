@@ -11,9 +11,11 @@ public class Movie {
     public int getPriceCode() {
         return priceCode;
     }
-    public void setPriceCode(int arg) {
-        priceCode = arg;
-    }
+// --Commented out by Inspection START (09.05.2017 11:42):
+//    public void setPriceCode(int arg) {
+//        priceCode = arg;
+//    }
+// --Commented out by Inspection STOP (09.05.2017 11:42)
     public String getTitle (){
         return title;
     }
