@@ -3,10 +3,10 @@ import java.lang.*;
 import java.util.*;
 
 class Customer {
-    private String name;
+    private final String name;
     private Vector rentals = new Vector();
-    public Customer (String newname){
-        name = newname;
+    public Customer(){
+        name = "joe";
     };
     public void addRental(Rental arg) {
         rentals.addElement(arg);
