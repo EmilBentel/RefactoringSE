@@ -4,7 +4,7 @@ import java.util.*;
 
 class Customer {
     private final String name;
-    private Vector rentals = new Vector();
+    private final Vector rentals = new Vector();
     public Customer(){
         name = "joe";
     };
