@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Fowler-c0e1c7a21a5335d7e475c2c795ed77deec37b776.iml" filepath="$PROJECT_DIR$/Fowler-c0e1c7a21a5335d7e475c2c795ed77deec37b776.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RefactoringSE.iml" filepath="$PROJECT_DIR$/RefactoringSE.iml" />
     </modules>
   </component>
 </project>
